@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": 105,
+      "name": "Lori",
+      "description": "Cet assortiment de fleurs est idéal pour offrir. Que ce soit pour un anniversaire ou une graduation, élégant et doux, cet agencement complémente l'occasion.",
+      "price": 100,
+      "categorie": "À Offrir"
+    },
+    {
+      "id": 223,
+      "name": "Verde",
+      "description": "Pas le pouce vert ? Pas de problème ! avec cette plante grâce qui requiert un minimum d'attention, vous serez rassuré de savoir qu'elle restera verte et belle dans votre appartement.",
+      "price": 40,
+      "categorie": "En pot"
+    },
+    {
+      "id": 462,
+      "name": "Ezo",
+      "description": "Quoi de mieux qu'un arrosoire qui est tellement beau qu'on veut le garder comme déco ? Minimaliste, cette oeuvre d'art est pour ceux qui aime joindre l'utile à l'agréable.",
+      "price": 50,
+      "categorie": "Accessoire"
+    }
+  ]
+}
